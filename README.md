@@ -41,7 +41,7 @@ This project uses Natural Language Processing (NLP) to analyze tweets about the 
 5. Visualize sentiment scores vs engagement (favoriteCount, retweets).
 6. Draw insights about the audience sentiment and emotional trends.
 
-## Key Insights
+## Results
 - Tweets showed **predominantly positive sentiment** with a mean compound score of ~0.249.
 - Positive emotions like **joy and anticipation** were higher than negative emotions (anger, fear, sadness, disgust).
 - Higher favorite counts often corresponded to **more positive sentiment**.
